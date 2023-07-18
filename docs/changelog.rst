@@ -12,7 +12,6 @@ ChangeLog
       passwords.
     - :issue:`304`: Add :attr:`~factory.alchemy.SQLAlchemyOptions.sqlalchemy_session_factory` to dynamically
       create sessions for use by the :class:`~factory.alchemy.SQLAlchemyModelFactory`.
-    - Add support for Django 4.0
     - Add support for Django 4.1
     - Add support for Django 4.2
     - Add support for Python 3.10
